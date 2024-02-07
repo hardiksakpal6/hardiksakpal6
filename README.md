@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hardiksakpal6
 - 👀 I’m interested in Machine Learning / Deep Learning applications
-- 🌱 I’m currently learning Ml techniques.
+- 🌱 I’m currently learning ML techniques.
 - 💞️ I’m looking to collaborate on projects that include computer vision, NLP, Gen AI.
 - 📫 How to reach me: hardiksakpal6@outlook.com
 
