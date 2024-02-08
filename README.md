@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hardiksakpal6
+## 👋 Hi, I’m Hardik
 - 👀 I’m interested in Machine Learning / Deep Learning applications
 - 🌱 I’m currently learning ML techniques.
 - 💞️ I’m looking to collaborate on projects that include computer vision, NLP, Gen AI.
